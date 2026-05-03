@@ -1,4 +1,4 @@
-# Chess Pro - Python Chess Game
+# Chess - Python Chess Game
 
 A modern, high-performance Chess application built with Python, Pygame, and the `python-chess` library. This project features a sleek, fullscreen user interface with dynamic scaling and integrated game timers.
 
