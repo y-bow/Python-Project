@@ -2,8 +2,6 @@
 
 A modern, high-performance Chess application built with Python, Pygame, and the `python-chess` library. This project features a sleek, fullscreen user interface with dynamic scaling and integrated game timers.
 
-![Chess Pro Preview](https://via.placeholder.com/800x450?text=Chess+Pro+Gameplay+Preview)
-
 ## 🌟 Features
 
 - **Premium UI**: Designed with a deep, modern color palette and smooth visual feedback.
